@@ -1,0 +1,9 @@
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img src="http://placehold.it/140x100" /><br /><a href="#"><strong>One</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Two</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Three</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img src="http://placehold.it/140x100" /><br /><a href="#"><strong>Four</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Five</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Six</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img src="http://placehold.it/140x100" /><br /><a href="#"><strong>Seven</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Eight</strong></a></div>
+<div style="margin-left: auto; margin-right: auto; text-align: center;"><img  src="http://placehold.it/140x100" /><br /><a href="#"><strong>Nine</strong></a></div>
